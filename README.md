@@ -27,6 +27,7 @@ This project performs exploratory data analysis on drug-related healthcare data,
 # Tools & Technologies Used
 - Python (Pandas, NumPy, Matplotlib)
 - GitHub (Version Control & Documentation)
+- Tableau (Data Visualization & Dashboarding)
 
 # Conclusion
 -The analysis demonstrated that drug comparison becomes more reliable when review thresholds are applied, reducing small-sample bias in rating evaluation. It also highlighted that clinical safety classifications do not always align with patient satisfaction scores, emphasizing the importance of evaluating drugs using both experiential and regulatory perspectives.
